@@ -1,0 +1,3 @@
+Name: Ayush Chamola
+Language Known: C++, Python, HTML, CSS
+Goal: Learn Blockchain and stack development
